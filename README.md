@@ -10,5 +10,9 @@ Screenshots
 Here are some screeenshots of the application showcasing the Booking functionality.
 
   
+![image](https://github.com/Ayush16072/assignment/assets/102243037/62726626-5109-4612-b778-5a01ee8796ad)
+![image](https://github.com/Ayush16072/assignment/assets/102243037/0855413a-c659-4321-9a87-9415be2cfe4b)
+![image](https://github.com/Ayush16072/assignment/assets/102243037/42323fe6-45f1-4d87-885d-ad331808c6a2)
+
 
 front-end-little-lemon
